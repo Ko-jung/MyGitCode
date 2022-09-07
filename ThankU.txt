@@ -1,3 +1,2 @@
 Thank You
 성적 : 100
-bug fix
